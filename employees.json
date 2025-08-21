@@ -1,0 +1,7 @@
+{
+  "mounika": { "password": "mounika123", "rank": "player", "status": "active", "amount": 0 },
+  "lucky":   { "password": "lucky123",   "rank": "guard",  "status": "inactive", "amount": 50 },
+  "nithya":  { "password": "nithya123",  "rank": "admin",  "status": "active", "amount": 100 },
+  "pandu":   { "password": "pandu123",   "rank": "master", "status": "active", "amount": 200 },
+  "nani":    { "password": "201145",    "rank": "player", "status": "active", "amount": 0 }
+}
